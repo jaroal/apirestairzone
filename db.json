@@ -1,5 +1,16 @@
 {
-  "id": 1,
-  "title": "hello",
-  "name":"fujitsu"
+  "systemID": [
+    {
+      "id": 1,
+      "system": "fujitsu"
+    }
+  ],
+  "zones": [
+    {
+      "name": "salon"
+    },
+    {
+      "name": "dormitorio"
+    }
+ ] 
 }
