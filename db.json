@@ -8,11 +8,15 @@
   "zones": [
     {
       "id": 1,
-      "name": "salon"
+      "name": "salon",
+      "on": true,
+      "setpoint": 25
     },
     {
       "id": 2,
-      "name": "dormitorio"
+      "name": "dormitorio",
+      "on": false,
+      "setpoint": 26
     }
  ] 
 }
