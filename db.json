@@ -1,22 +1,21 @@
 {
-  "systemID": [
-    {
-      "id": 1,
-      "system": "fujitsu"
-    }
-  ],
-  "zones": [
-    {
-      "id": 1,
-      "name": "salon",
-      "on": true,
-      "setpoint": 25
-    },
-    {
-      "id": 2,
-      "name": "dormitorio",
-      "on": false,
-      "setpoint": 26
-    }
- ] 
+  "SystemID": 1,
+  "ZoneID": 1,
+  "name": "Salon",
+  "on": true,
+  "setpoint": 25,
+  "roomtemp": 27,
+  "maxtemp": 30,
+  "mintemp": 15,
+  "coolsetpoint": 26,
+  "coolmaxtemp": 30,
+  "coolmintemp": 24,
+  "heatsetpoint": 22,
+  "heatmaxtemp": 26,
+  "heatmintemp": 15,
+  "mode": 7,
+  "speed": 0,
+  "coldstage": 1,
+  "heatstage ": 1,
+  "units": 0
 }
