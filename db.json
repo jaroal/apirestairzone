@@ -1,6 +1,7 @@
 {
   "zone": [
     {"on": true,
+    "id": 1,
     "setpoint": 25,
     "roomtemp": 27,
     "mode": 7,
