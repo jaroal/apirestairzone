@@ -1,7 +1,10 @@
 {
-  "on": true,
-  "setpoint": 25,
-  "roomtemp": 27,
-  "mode": 7,
-  "speed": 0
+  "posts": [
+    {"on": true,
+    "setpoint": 25,
+    "roomtemp": 27,
+    "mode": 7,
+    "speed": 0
+  }
+  ]
 }
